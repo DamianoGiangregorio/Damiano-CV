@@ -31,9 +31,10 @@ body{
     padding: 5vh 4vh;
 }
 .div2{
-    width: 40%;
+    width: 60%;
     height: 100%;
 }
+
 .tit{
     font-weight:bold;
     color: #3356F0;
@@ -56,9 +57,6 @@ body{
 .j{
     margin-top: 5vh;
 }
-
-
-
 
 .header{
     position: fixed;
